@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "703971249318",
+    "firebase_url": "https://gonchat-c539f.firebaseio.com",
+    "project_id": "gonchat-c539f",
+    "storage_bucket": "gonchat-c539f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703971249318:android:b5dac2dcd5223493",
+        "android_client_info": {
+          "package_name": "com.apkglobal.gonchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703971249318-v46rnj2nf9bnv1fkrlesnqrdkjuvposi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apkglobal.gonchat",
+            "certificate_hash": "ab81ec584466dd0611a40a899416bf9280c9a167"
+          }
+        },
+        {
+          "client_id": "703971249318-apgjrn7m4bom2sfc2gtvgslflgbo825t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbT3VWEhFCGDDLoh5y0yFiLqXsad6OjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703971249318-apgjrn7m4bom2sfc2gtvgslflgbo825t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
